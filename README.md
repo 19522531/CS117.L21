@@ -17,7 +17,7 @@
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Tư duy tính toán - Computer Thinking
-* **Mã môn học**: CS114
+* **Mã môn học**: CS117
 * **Lớp học**: CS117.L21
 * **Ngày bắt đầu**: 01/03/2021
 * **Năm học**: 2020-2021
