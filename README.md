@@ -6,8 +6,8 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
-<h1 align="center"><b>MACHINE LEARNING</b></h1>
+<h1 align="center"><b>CS117.L21 - TƯ DUY TÍNH TOÁN</b></h1>
+<h1 align="center"><b>COMPUTER THINKING</b></h1>
 
 
 ## BẢNG MỤC LỤC
